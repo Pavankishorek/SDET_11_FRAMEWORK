@@ -7,5 +7,9 @@ public class Login {
 public void loginpage(){
 	
 }
+@Test
+public void loginbusinessmethod(){
+	System.out.println("created");
+}
 	
 }
